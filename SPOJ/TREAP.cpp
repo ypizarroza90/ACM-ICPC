@@ -145,7 +145,7 @@ int main()
 {
 	 for (int i = 0; i < MAXN; i++)
         rnd.push_back(i);
-    random_shuffle(rnd.begin(), rnd.end());
+    	random_shuffle(rnd.begin(), rnd.end());
 	cin>>cas;
 	while(cas--){
 		cin>>op>>i;
