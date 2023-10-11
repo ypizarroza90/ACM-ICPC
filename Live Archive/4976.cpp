@@ -1,6 +1,4 @@
 #include <bits/stdc++.h>
-using namespace std;
-#include <bits/stdc++.h>
 #define i64 long long
 using namespace std;
 const int MAXN = 2*100000;
